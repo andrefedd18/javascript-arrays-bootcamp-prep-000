@@ -1,3 +1,3 @@
 var chocolateBars = snickers;hundred grand;kitkat;skittles
-var chocalateBars = [
+var chocolateBars = [
   'snickers', 'hundred grand', 'kitkat','skittles'];
